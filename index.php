@@ -1,3 +1,3 @@
 <?php
-echo "sample php website connected successfully created by venkat ";
+echo "sample php website connected successfully ";
 ?>
