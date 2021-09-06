@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html>
-<body>
 
 
 
 <?php
-echo "connected successfully";
+print "connected successfully";
 ?>
 
-</body>
-</html>
