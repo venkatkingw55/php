@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My first PHP page</h1>
+
 <?php
-echo "sample php website connected successfully ";
+echo "connected successfully";
 ?>
+
+</body>
+</html>
